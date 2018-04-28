@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Could-Try.iml" filepath="$PROJECT_DIR$/Spring-Could-Try.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client-hi/service-client-hi.iml" filepath="$PROJECT_DIR$/service-client-hi/service-client-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-ribbon-rest/service-consumer-ribbon-rest.iml" filepath="$PROJECT_DIR$/service-consumer-ribbon-rest/service-consumer-ribbon-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
